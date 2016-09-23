@@ -4,4 +4,4 @@ title: btv4_binh_duong
 tags: ["vntv"]
 thumb: btv4_binh_duong
 ---
-{% include tvadv key=btv4_binh_duong %}
+{% include tvadv key="btv4_binh_duong" %}

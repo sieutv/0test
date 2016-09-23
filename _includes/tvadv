@@ -1,2 +1,1 @@
 <video poster="{{site.asseturl}}/img/sieutv16x9.jpg" data-setup="{}" id="player0" class="video-js vjs-default-skin vjs-big-play-centered vjs-16-9" controls preload="auto"><source src="{{site.dataurl}}/{{page.categories[0]}}/{{include.key}}.m3u8" type='application/x-mpegurl'></video>
-{{site.dataurl}}/{{page.categories[0]}}/{{include.key}}.m3u8

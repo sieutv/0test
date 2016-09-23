@@ -4,4 +4,4 @@ title: vietnamnet
 tags: ["vntv"]
 thumb: vietnamnet
 ---
-{% include tvadv key=vietnamnet %}
+{% include tvadv key="vietnamnet" %}
