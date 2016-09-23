@@ -1,0 +1,6 @@
+name: "SieuTV"
+subline: "fun for free"
+baseurl: "/0test"
+dataurl: "/0data"
+asseturl: "/assets"
+permalink: /:categories/:title/
