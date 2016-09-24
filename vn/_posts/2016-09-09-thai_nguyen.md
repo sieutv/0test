@@ -1,7 +1,7 @@
 --- 
 layout: sieutv
 title: thai_nguyen
-tags: ["vntv"]
+tags: ["VN-local"]
 thumb: thai_nguyen
 ---
 {% include tvadv key="thai_nguyen" %}

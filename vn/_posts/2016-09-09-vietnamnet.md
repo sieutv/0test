@@ -1,7 +1,7 @@
 --- 
 layout: sieutv
 title: vietnamnet
-tags: ["vntv"]
+tags: ["VNplus"]
 thumb: vietnamnet
 ---
 {% include tvadv key="vietnamnet" %}

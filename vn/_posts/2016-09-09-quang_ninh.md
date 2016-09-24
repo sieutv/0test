@@ -1,7 +1,7 @@
 --- 
 layout: sieutv
 title: quang_ninh
-tags: ["vntv"]
+tags: ["VN-local"]
 thumb: quang_ninh
 ---
 {% include tvadv key="quang_ninh" %}

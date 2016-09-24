@@ -1,7 +1,7 @@
 --- 
 layout: sieutv
 title: vctv11_vgs_shop
-tags: ["vntv"]
+tags: ["VTV"]
 thumb: vctv11_vgs_shop
 ---
 {% include tvadv key="vctv11_vgs_shop" %}

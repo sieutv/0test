@@ -1,7 +1,7 @@
 --- 
 layout: sieutv
 title: vctv9_infotv
-tags: ["vntv"]
+tags: ["VTV"]
 thumb: vctv9_infotv
 ---
 {% include tvadv key="vctv9_infotv" %}
