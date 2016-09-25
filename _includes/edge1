@@ -1,0 +1,5 @@
+<script src="//content.jwplatform.com/libraries/V6NfEzT7.js"></script>
+<div id="myPlayer">&nbsp;</div>
+<script>var jwp = jwplayer('myPlayer');
+jwp.setup({image:"{{site.asseturl}}/img/sieutv16x9.png",file:"http://edge1.everyon.tv/etv1sb/pld{{include.key}}/chunklist.m3u8",aspectratio:"16:9",width:"100%",type:"hls",hlshtml:true,autostart:true});
+</script>
