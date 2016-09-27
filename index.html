@@ -2,4 +2,12 @@
 layout: page
 title: Welcome to SieuTV.net
 ---
-<center>{% for cate in site.categories %}{% assign c=cate | first %}{% assign posts=cate | last %}{% if c !="0x0" %}<a href="{{site.baseurl}}/{{c}}" class="btn btn-success wfixed"><img src="{{site.asseturl}}/flags/{{c}}.jpg" class="pull-left"/><span class="pull-left">{{c|upcase}}</span><span class="badge pull-right">{{posts|size}}</span></a>{% endif %}{% endfor %}<a class="btn btn-warning" href="{{site.baseurl}}/about"><i class="glyphicon glyphicon-info-sign"></i>About</a></center>
+<script>
+var ver=2;
+var cap = /key=([^&]+)/.exec(window.location.href)[1];
+if (cap) {
+	if (cap==ver)
+	window.location = "/home" ;
+}
+</script>
+plz update new version: <a href="http://dl.sieutv.net/sieutv.apk">http://dl.sieutv.net/sieutv.apk</a>
